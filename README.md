@@ -1,3 +1,3 @@
-# tictactoegame
-Tic tac toe game in python (Basic Version)
-Will be updating soon with an GUI
+#Tic tac toe
+Game written in python3 (Basic CL Version)
+Will be updating soon with a GUI
